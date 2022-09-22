@@ -131,6 +131,44 @@ ul, ol, li {
   font-size: 26px;
 }
 
+/*FEATURES DETAIL*/
+.features-detail{
+  padding: 0 5%;
+  background: #E2D6C3;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.features-detail__container{
+  padding: 0 5%;
+}
+.features-detail__title {
+  font-family: "Chivo", Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  margin: 0 0 30px;
+}
+.features-detail__cards hr{
+  width: 50%;
+  margin: 20px auto;
+  border-top: 2px solid black;
+}
+.features-detail__card{
+  background: #FFFFFF;
+  margin: 10px auto;
+  padding: 10px;
+  width: 75%;
+}
+.features-detail__card-title{
+  text-align: center;
+  margin: 0 0 0 40px;
+  font-family: "Overpass", Arial, Helvetica, sans-serif;
+  font-weight:bold ;
+  font-size: 19px;
+}
+.features-detail__card-copy{
+  text-align: center;
+  margin: 10px;
+  font-size: 19px;
+}
 .pricing {
   padding: 0 5%;
   background: #E7E6E5;
